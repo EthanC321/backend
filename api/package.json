@@ -17,7 +17,8 @@
     "express-rate-limit": "^6.7.0",
     "mongodb": "^4.13.0",
     "monk": "^7.3.4",
-    "morgan": "^1.10.0"
+    "morgan": "^1.10.0".
+    "@next/env": "^12.0.7"
   },
   "devDependencies": {
     "nodemon": "^2.0.20"
